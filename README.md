@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelvin Wamae</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="center">A passionate Android developer from Kenya .Machine learning(side quest :)</h3>
 
 - 🌱 I’m currently learning **Jetpack compose * Machine learning 😃
