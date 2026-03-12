@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
-<h3 align="center">A passionate Mobile Engineer.Machine learning(side quest :)</h3>
+<h3 align="center">A passionate Mobile Engineer</h3>
 
-- 🌱 I’m currently learning **Jetpack compose * Machine learning 😃
+- 🌱 I’m currently learning **Jetpack compose * Machine learning 😃 
 
 - 📫 How to reach me **kelvinwamae77@gmial.com**
 
